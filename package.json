@@ -1,5 +1,5 @@
 {
-  "name": "@capacitor-community/contacts-permissions-lite",
+  "name": "contacts-permissions-lite",
   "version": "5.0.5",
   "description": "Contacts Plugin for Capacitor",
   "main": "dist/plugin.cjs.js",
